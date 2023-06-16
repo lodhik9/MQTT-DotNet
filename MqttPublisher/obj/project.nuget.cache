@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1E4PHvrsVyM+MUkxfo0Y7IWcLRQGDcrZwVPax1nEVFJh1spurPZ//WBgf8Gxr7BzVTwxZb4uVOyNzj8ZpDIa+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\binis\\source\\repos\\MqttPublisher\\MqttPublisher\\MqttPublisher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\binis\\.nuget\\packages\\mqttnet\\4.2.1.781\\mqttnet.4.2.1.781.nupkg.sha512"
+  ],
+  "logs": []
+}
