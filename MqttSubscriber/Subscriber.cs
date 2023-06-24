@@ -25,10 +25,10 @@ namespace MQTTSubscriber
                 // received messages get lost.
                 mqttClient.ApplicationMessageReceivedAsync += e =>
                 {
-                    Console.WriteLine($"Received application message. - {
-                        
-                        }");
-                    //e.DumpToConsole();
+                    Console.WriteLine("Received application message.");
+                    Console.WriteLine("Topic: " + e.ApplicationMessage.Topic);
+                    Console.WriteLine("Payload: " + Encoding.UTF8.GetString(e.ApplicationMessage.Payload));
+                    // e.DumpToConsole();
 
                     return Task.CompletedTask;
                 };

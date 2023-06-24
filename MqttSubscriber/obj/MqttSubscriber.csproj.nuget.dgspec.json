@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\binis\\source\\repos\\MqttPublisher\\MqttSubscriber\\MqttSubscriber.csproj": {}
+    "C:\\Users\\binis\\source\\repos\\MqttDotNet\\MqttSubscriber\\MqttSubscriber.csproj": {}
   },
   "projects": {
-    "C:\\Users\\binis\\source\\repos\\MqttPublisher\\MqttSubscriber\\MqttSubscriber.csproj": {
+    "C:\\Users\\binis\\source\\repos\\MqttDotNet\\MqttSubscriber\\MqttSubscriber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\binis\\source\\repos\\MqttPublisher\\MqttSubscriber\\MqttSubscriber.csproj",
+        "projectUniqueName": "C:\\Users\\binis\\source\\repos\\MqttDotNet\\MqttSubscriber\\MqttSubscriber.csproj",
         "projectName": "MqttSubscriber",
-        "projectPath": "C:\\Users\\binis\\source\\repos\\MqttPublisher\\MqttSubscriber\\MqttSubscriber.csproj",
+        "projectPath": "C:\\Users\\binis\\source\\repos\\MqttDotNet\\MqttSubscriber\\MqttSubscriber.csproj",
         "packagesPath": "C:\\Users\\binis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\binis\\source\\repos\\MqttPublisher\\MqttSubscriber\\obj\\",
+        "outputPath": "C:\\Users\\binis\\source\\repos\\MqttDotNet\\MqttSubscriber\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
